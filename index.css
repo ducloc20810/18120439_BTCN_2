@@ -1,0 +1,57 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+.SoThu1
+{
+	margin-right:10px; 
+	float:left;
+
+}
+.SoThu2
+{
+	margin-right: 20px;
+	float:left;
+}
+
+.inputAllign
+{
+	margin-right:10px;
+}
+
+.tickAllign
+{
+	margin-left: 10px;
+	margin-right:3px;
+}
+
+.KQ
+{
+	float:left;
+	margin-right: 38px;
+}
+
+.dapanAllign
+{
+	margin-right: 20px;
+}
+
+.outputAllign
+{
+	display: inline-block;
+	margin-left: 8px;
+	color:red;
+}
+
+.container
+{
+	padding-left: 380px;
+}
+
+h1
+{
+	text-align: center;
+}
+
